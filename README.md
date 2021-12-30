@@ -1,4 +1,6 @@
 ### Hi there 👋
+Developer - Invision Power Services, Inc.
+![Twitter Follow](https://img.shields.io/twitter/follow/ryanashbrook?style=social) 
 
 <!--
 **ryan-ashbrook/ryan-ashbrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
